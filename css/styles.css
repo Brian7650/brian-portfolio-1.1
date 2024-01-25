@@ -11511,7 +11511,7 @@ html {
 /* //////////////////////////////////////////////////////////////////// */
 
 .masthead-avatar {
-  max-width: 80em;  
+  /* max-width: 100em;   */
   background:#222831;
   font: #DDDDDD;
   /* height: 100vh; */
